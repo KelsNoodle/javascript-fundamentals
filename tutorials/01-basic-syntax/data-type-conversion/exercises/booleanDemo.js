@@ -8,6 +8,14 @@ let alienLifeDetected = null;
 let darkMatter = undefined;
 let imaginaryNumber = NaN;
 
+humanVisitorsToMars = false;
+screamInSpace = false;
+alienLifeDetected = false;
+darkMatter = false;
+imaginaryNumber = false;
+
+console.log(humanVisitorsToMars, screamInSpace, alienLifeDetected, darkMatter, imaginaryNumber);
+
 // DEMO: Convert each value above to Boolean and log its new value.
 
 /** EXAMPLE 2 - TRUTHY VALUES */
@@ -16,6 +24,11 @@ let humanVisitorsToMoon = 28;
 let firstHumanToWalkOnMoon = "Neil Armstrong";
 let buzzLightyearDestination = Infinity;
 
+humanVisitorsToMoon = true;
+firstHumanToWalkOnMoon = true;
+buzzLightyearDestination = true;
+
+console.log(humanVisitorsToMoon, firstHumanToWalkOnMoon, buzzLightyearDestination);
 // DEMO: Convert each value above to Boolean and log its new value.
 
 // DEMO: Make a git commit!
