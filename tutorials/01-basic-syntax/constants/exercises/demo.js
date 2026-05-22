@@ -22,7 +22,7 @@ console.log(`The Delta-v to escape Earth's gravity is ${DELTAV_ESCAPE_EARTH} km/
 
 // DEMO: Define a birth year and a current age. Which is which?
 const BIRTH_YEAR = 1952; //this never changes, can be a constant
-let age = 74; //this changes every year, it would have to be updated
+let age = 74; //this changes every year(normally), it would have to be updated.
 
 console.log(`My Dad was born in ${BIRTH_YEAR}, and his age at passing was ${age}. May he forever wander and wonder at the stars.`)
 
