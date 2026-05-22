@@ -21,10 +21,11 @@ console.log(`The Delta-v to escape Earth's gravity is ${DELTAV_ESCAPE_EARTH} km/
 /** EXAMPLE 3 - CONST vs LET **/
 
 // DEMO: Define a birth year and a current age. Which is which?
-const BIRTH_YEAR = 1952; //this never changes, can be a constant
+const BIRTH_DAY = "January 3 1952"; //this never changes, can be a constant
 let age = 74; //this changes every year(normally), it would have to be updated.
+const DATE_OF_DEATH = "April 30 2026"
 
-console.log(`My Dad was born in ${BIRTH_YEAR}, and his age at passing was ${age}. May he forever wander and wonder at the stars.`)
+console.log(`My Dad was born on ${BIRTH_DAY}, died on ${DATE_OF_DEATH}, and his age at passing was ${age}. May he forever wander and wonder at the stars.`)
 
 // DEMO: Make a git commit!
 
