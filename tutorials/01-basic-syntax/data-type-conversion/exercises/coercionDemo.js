@@ -14,6 +14,8 @@ console.log(`sectorName type is a ${typeof sectorName}.`);
 console.log(`sectorText type is a ${typeof sectorText}.`);
 console.log(`sectorNumber type is a ${typeof sectorNumber}.`);
 
+//branch test comment - ignore this
+
 /** EXAMPLE 2 - ARITHMETIC **/
 
 let totalDistanceKm = "1000";

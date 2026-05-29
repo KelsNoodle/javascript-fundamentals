@@ -13,6 +13,11 @@
 let engineTemp = 240;
 let isShieldActive = true;
 
+let stringDisplay = String(engineTemp);
+console.log(engineTempString);
+
+//branch test comment - ignore this
+
 // NUMBERS
 
 // 2. TODO: Convert these values to numbers using the appropriate conversion function/method.
