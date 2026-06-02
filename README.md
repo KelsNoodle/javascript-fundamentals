@@ -236,4 +236,8 @@ This particular collection of coding exercises focuses solely on JavaScript (occ
 
 ## ABOUT THE AUTHOR
 
-Caroline Jones - [@Carolista](https://github.com/Carolista) - [CodeWithCarrie.com](http://codewithcarrie.com) - [LinkedIn](https://www.linkedin.com/in/carolinerjones)
+### Caroline "Carrie" Jones 
+
+Front End Engineer and Lead Instructor at [LaunchCode](https://www.launchcode.org) 
+
+[@Carolista](https://github.com/Carolista) - [CodeWithCarrie.com](http://codewithcarrie.com) - [LinkedIn](https://www.linkedin.com/in/carolinerjones)
